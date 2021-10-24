@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LibraryManagement</string>
+    <string name="enterPassword">Enter Password</string>
+    <string name="enterEmail">Enter Email</string>
+    <string name="enterName">Enter FullName</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="make_account">Dont have account.Click Here!</string>
+    </resources>
